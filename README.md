@@ -55,5 +55,9 @@ Edit
 🧪 Test Accounts
 For testing, use the Register option to create multiple accounts and test login, transfer, and other operations.
 
+---
 
+👨‍💻 **Author:** Dinkar Prasad  
+📧 Email: dinkarprasad682@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/dinkarprasad682)
 
