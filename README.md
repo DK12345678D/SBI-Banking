@@ -2,7 +2,7 @@
 
 This is a simple Command-Line Banking System that simulates basic banking operations of the State Bank of India (SBI), implemented using **Core Java** and **Object-Oriented Programming Concepts**.
 
-## 📌 Project Description
+## 📌 Project Description 
 
 The application allows users to:
 - Create a new bank account
