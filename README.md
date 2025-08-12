@@ -51,7 +51,7 @@ Edit
 7. View Transaction History
 8. Exit
 =============================== 
----
+---  
 🧪 Test Accounts
 For testing, use the Register option to create multiple accounts and test login, transfer, and other operations.
 
